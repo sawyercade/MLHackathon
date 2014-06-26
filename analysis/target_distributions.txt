@@ -1,0 +1,63 @@
+TargetAreaPath
+                                Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\LU 
+                                                                                      342 
+                                       Windows Phone Blue\\Experiences\\RealWorld\\Search 
+                                                                                      173 
+                      Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE\\Cat3Answer 
+                                                                                      161 
+                  Windows Phone Blue\\Experiences_DevPartners\\Bing\\ProactiveExperiences 
+                                                                                       92 
+                                Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\SR 
+                                                                                       65 
+                                Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\LG 
+                                                                                       63 
+                               Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework 
+                                                                                       39 
+                  Windows Phone Blue\\Experiences\\RealWorld\\VoiceAgents\\LifeManagement 
+                                                                                       35 
+                                    Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU 
+                                                                                       33 
+                            Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE\\SERP 
+                                                                                       32 
+                                  Windows Phone Blue\\Experiences\\RealWorld\\CortanaOOBE 
+                                                                                       27 
+                               Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\TTS 
+                                                                                       24 
+                                  Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE 
+                                                                                       17 
+                        Windows Phone Blue\\Experiences\\RealWorld\\CortanaOOBE\\Settings 
+                                                                                       14 
+Windows Phone Blue\\Experiences_DevPartners\\Bing\\ProactiveExperiences\\SuggestionCanvas 
+                                                                                        9 
+                            Windows Phone Blue\\Experiences\\RealWorld\\Persona\\ChitChat 
+                                                                                        9 
+               Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework\\CallingTexting 
+                                                                                        9 
+                         Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework\\Help 
+                                                                                        9 
+                  Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\IntentExtraction 
+                                                                                        6 
+                             Windows Phone Blue\\Experiences\\RealWorld\\IntentExtraction 
+                                                                                        6 
+                           Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\Service 
+                                                                                        5 
+                    Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework\\Framework 
+                                                                                        4 
+                            Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\Client 
+                                                                                        2 
+                       Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE\\QuickCard 
+                                                                                        2 
+           Windows Phone Blue\\Experiences_DevPartners\\Bing\\ProactiveExperiences\\Chats 
+                                                                                        2 
+                                      Windows Phone Blue\\Experiences\\RealWorld\\Persona 
+                                                                                        2 
+                           Windows Phone Blue\\Experiences\\RealWorld\\Persona\\Greetings 
+                                                                                        2 
+                 Windows Phone Blue\\Experiences\\RealWorld\\VoiceAgents\\PlacesNicknames 
+                                                                                        2 
+                         Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework\\Open 
+                                                                                        2 
+                         Windows Phone Blue\\Experiences\\RealWorld\\Search\\DeviceSearch 
+                                                                                        1 
+                    Windows Phone Blue\\Experiences\\RealWorld\\Search\\SearchResultsHOSE 
+                                                                                        1 

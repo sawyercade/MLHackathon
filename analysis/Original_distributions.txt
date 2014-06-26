@@ -1,0 +1,51 @@
+OriginalAreaPath
+                           Windows Phone Blue\\Experiences\\RealWorld\\Search 
+                                                                          496 
+                    Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\LU 
+                                                                          230 
+          Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE\\Cat3Answer 
+                                                                          155 
+                   Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework 
+                                                                           51 
+      Windows Phone Blue\\Experiences\\RealWorld\\VoiceAgents\\LifeManagement 
+                                                                           46 
+                Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE\\SERP 
+                                                                           43 
+              Windows Phone Blue\\Experiences\\RealWorld\\ContextualAwareness 
+                                                                           37 
+                      Windows Phone Blue\\Experiences\\RealWorld\\AssistantUI 
+                                                                           36 
+             Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework\\Help 
+                                                                           20 
+                      Windows Phone Blue\\Experiences\\RealWorld\\CortanaOOBE 
+                                                                           16 
+Windows Phone Blue\\CorePlat\\DeviceFundamentals\\Telemetry\\UnknownPSMapping 
+                                                                           13 
+                                   Windows Phone Blue\\Experiences\\RealWorld 
+                                                                           12 
+                                Windows Phone Blue\\Experiences\\CoreX\\Shell 
+                                                                            6 
+                    Windows Phone Blue\\Experiences\\RealWorld\\MapLocationEx 
+                                                                            6 
+                    Windows Phone Blue\\DevPlat_DevPartners\\AppFx\\AppCompat 
+                                                                            5 
+            Windows Phone Blue\\Experiences\\Apps\\EmailAndCalendar\\Calendar 
+                                                                            4 
+               Windows Phone Blue\\Experiences\\Apps\\EmailAndCalendar\\Email 
+                                                                            4 
+                               Windows Phone Blue\\Experiences\\C4\\Messaging 
+                                                                            2 
+                                Windows Phone Blue\\Experiences\\CoreX\\Store 
+                                                                            2 
+                                    Windows Phone Blue\\DevPlat\\BPT\\Browser 
+                                                                            1 
+                                          Windows Phone Blue\\DevPlat\\Health 
+                                                                            1 
+                                  Windows Phone Blue\\Experiences\\C4\\People 
+                                                                            1 
+                                   Windows Phone Blue\\Experiences\\C4\\Phone 
+                                                                            1 
+                                       Windows Phone Blue\\Experiences\\CoreX 
+                                                                            1 
+                    Windows Phone Blue\\FundamentalsAndData\\CDE\\FeedbackHub 
+                                                                            1 
