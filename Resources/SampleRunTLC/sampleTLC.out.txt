@@ -1,0 +1,233 @@
+TL.exe Train.tsv /c=TrainTest /rs=123 /threads=- /inst=TextInstances{header=+ sparse=- cat=1-4 text=13,14 attr=5-12 label=0 name=1 lf=labels_allareas.txt unl=+} TestValid.tsv /cl=OVA{} /o=586.inst.txt /t=+ /trsess=1
+6/24/2014 5:02:46 PM Initializing feature handlers
+Following columns have been marked as name and will not be used as a cat features: 1
+	Adding 2 features for input column 2
+	Adding 40 features for input column 3
+	Adding 71 features for input column 4
+	Adding 13563 features for input column 13
+	Adding 12872 features for input column 14
+Feature Handlers:
+	Added handler 'Categorical' with 113 features at offset 0 for columns: 2,3,4
+	Added handler 'WordBag' with 26435 features at offset 113 for columns: 13,14
+6/24/2014 5:02:47 PM  Instances caching time(s): 0.382
+6/24/2014 5:02:47 PM  **************** TRAINING ****************
+
+Initializing OVA with the following settings: []
+
+Training learner (0) on 8664 instances
+6/24/2014 5:02:47 PM Performing feature normalization training
+
+6/24/2014 5:02:47 PM Performing calibrator training
+
+Training learner (1) on 8664 instances
+6/24/2014 5:02:47 PM Performing feature normalization training
+
+6/24/2014 5:02:47 PM Performing calibrator training
+
+Training learner (2) on 8664 instances
+6/24/2014 5:02:47 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (3) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (4) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (5) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (6) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (7) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (8) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (9) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (10) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (11) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (12) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (13) on 8664 instances
+6/24/2014 5:02:48 PM Performing feature normalization training
+
+6/24/2014 5:02:48 PM Performing calibrator training
+
+Training learner (14) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (15) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (16) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (17) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (18) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (19) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (20) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (21) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (22) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (23) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (24) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (25) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (26) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:49 PM Performing calibrator training
+
+Training learner (27) on 8664 instances
+6/24/2014 5:02:49 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+
+Training learner (28) on 8664 instances
+6/24/2014 5:02:50 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+
+Training learner (29) on 8664 instances
+6/24/2014 5:02:50 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+
+Training learner (30) on 8664 instances
+6/24/2014 5:02:50 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+
+Training learner (31) on 8664 instances
+6/24/2014 5:02:50 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+
+Training learner (32) on 8664 instances
+6/24/2014 5:02:50 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+
+Training learner (33) on 8664 instances
+6/24/2014 5:02:50 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+
+Training learner (34) on 8664 instances
+6/24/2014 5:02:50 PM Performing feature normalization training
+
+6/24/2014 5:02:50 PM Performing calibrator training
+6/24/2014 5:02:50 PM  **************** TESTING ****************
+
+6/24/2014 5:02:50 PM Initializing feature handlers
+Following columns have been marked as name and will not be used as a cat features: 1
+Feature Handlers:
+	Added handler 'Categorical' with 113 features at offset 0 for columns: 2,3,4
+	Added handler 'WordBag' with 26435 features at offset 113 for columns: 13,14
+.....
+----------------------------------------------------------------------------------------
+
+ Confusion table (sampled)
+          ||================================================================================
+PREDICTED ||     5 |     6 |    10 |    14 |    17 |    19 |    22 |    24 |    26 |    30 | Recall
+TRUTH     ||========================================================================================
+       5  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+       6  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      10  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      14  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      17  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      19  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      22  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      24  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      26  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      30  ||     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 |     0 | 0.000
+      ======================================================================================
+Precision || 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+
+ACCURACY(micro-avg):     0.000000
+ACCURACY(macro-avg):     0.000000
+LOG-LOSS:                9.107437
+LOG-LOSS REDUCTION:      Infinity
+
+----------------------------------------------------------------------------------------
+
+OVERALL RESULTS
+---------------------------------------
+ACCURACY(micro-avg): 0.0000 (0.0000)
+ACCURACY(macro-avg): 0.0000 (0.0000)
+LOG-LOSS:            9.1074 (0.0000)
+LOG-LOSS REDUCTION: Infinity (0.0000)
+
+---------------------------------------
+6/24/2014 5:02:51 PM	 Time elapsed(s): 4.939
