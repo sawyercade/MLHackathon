@@ -1,0 +1,26 @@
+ OriginalAreaPath   N          pct
+1  Windows Phone Blue\\CorePlat\\DeviceFundamentals\\Telemetry\\UnknownPSMapping  13 0.0109243697
+2                      Windows Phone Blue\\DevPlat_DevPartners\\AppFx\\AppCompat   5 0.0042016807
+3                                      Windows Phone Blue\\DevPlat\\BPT\\Browser   1 0.0008403361
+4                                            Windows Phone Blue\\DevPlat\\Health   1 0.0008403361
+5                      Windows Phone Blue\\Experiences_DevPartners\\Bing\\CU\\LU 230 0.1932773109
+6            Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE\\Cat3Answer 155 0.1302521008
+7                  Windows Phone Blue\\Experiences_DevPartners\\Bing\\HOSE\\SERP  43 0.0361344538
+8              Windows Phone Blue\\Experiences\\Apps\\EmailAndCalendar\\Calendar   4 0.0033613445
+9                 Windows Phone Blue\\Experiences\\Apps\\EmailAndCalendar\\Email   4 0.0033613445
+10                                Windows Phone Blue\\Experiences\\C4\\Messaging   2 0.0016806723
+11                                   Windows Phone Blue\\Experiences\\C4\\People   1 0.0008403361
+12                                    Windows Phone Blue\\Experiences\\C4\\Phone   1 0.0008403361
+13                                        Windows Phone Blue\\Experiences\\CoreX   1 0.0008403361
+14                                 Windows Phone Blue\\Experiences\\CoreX\\Shell   6 0.0050420168
+15                                 Windows Phone Blue\\Experiences\\CoreX\\Store   2 0.0016806723
+16                                    Windows Phone Blue\\Experiences\\RealWorld  12 0.0100840336
+17                       Windows Phone Blue\\Experiences\\RealWorld\\AssistantUI  36 0.0302521008
+18               Windows Phone Blue\\Experiences\\RealWorld\\ContextualAwareness  37 0.0310924370
+19                       Windows Phone Blue\\Experiences\\RealWorld\\CortanaOOBE  16 0.0134453782
+20                     Windows Phone Blue\\Experiences\\RealWorld\\MapLocationEx   6 0.0050420168
+21                            Windows Phone Blue\\Experiences\\RealWorld\\Search 496 0.4168067227
+22       Windows Phone Blue\\Experiences\\RealWorld\\VoiceAgents\\LifeManagement  46 0.0386554622
+23                    Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework  51 0.0428571429
+24              Windows Phone Blue\\Experiences\\RealWorld\\VoiceFramework\\Help  20 0.0168067227
+25                     Windows Phone Blue\\FundamentalsAndData\\CDE\\FeedbackHub   1 0.0008403361
